@@ -11,7 +11,7 @@ def line(katz_deli)
       line_report << "#{counter}. #{customer} "
     end
     puts line_report
-  end  
+  end
 end
 
 def take_a_number(katz_deli, customer)
